@@ -37,7 +37,7 @@ To put the rules in a form consistent with the spirit of Hacktoberfest:
 
 ## Also if you are a college student, feel free to join our Discord server to chat and share resources/job opportunities/mock interviews/referrals/general informations/games and a lot more. If you want to join, you can join us at: <a href="https://discord.gg/GTJx7qh"> Cullyege Discord Server. </a>
 
-
+           .
 
 > Hacktober fest has changed their policy this year to reduce spam. Now repos are opt-in with pr being accepted in Hacktoberfest if the repo ?> has and `hacktoberfest-accepted` label and/or hacktoberfest added to the topic of repo
 
@@ -45,4 +45,4 @@ To put the rules in a form consistent with the spirit of Hacktoberfest:
 
 ### For any query feel free to reach out to us at hellocullyege@gmail.com
 
-### Good Luck! 
+### Good Luck!        
