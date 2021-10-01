@@ -1,12 +1,8 @@
 def calculateGCD(x,y): 
-    if x > y: 
-        small = y 
-    else: 
-        small = x 
-    for i in range(1, small+1): 
-        if((x % i == 0) and (y % i == 0)): 
-            gcd = i        
-    return gcd 
+    if (x%y) == 0:
+        return y
+    else:
+        return calculate GCD(y, x%y)
   
 
 print ("GCD is ",calculateGCD(80,12)) 
